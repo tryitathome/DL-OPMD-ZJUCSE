@@ -1,0 +1,7 @@
+path: D:\MyWorkSpace\YOLO12\yolo_dataset_shengkouGen2
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names: ['OLK', 'OLP', 'OSF']

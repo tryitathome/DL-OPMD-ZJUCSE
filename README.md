@@ -1,5 +1,7 @@
 # DL-OPMD-JDR
 Code backup for project“A Deep Learning Method for Diagnosis of Oral Mucosa Potential Malignant Disorders”
+The two code branches in this project represent two different stages of the classification model used in the project.
+![image](https://github.com/user-attachments/assets/4955b267-4d32-4727-98da-44ffc71240c6)
 
 
 # YOLO12-Multi-classification-Oral-Mucosal-Diseases

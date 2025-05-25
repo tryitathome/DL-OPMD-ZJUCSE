@@ -4,7 +4,7 @@ The two code branches in this project represent two different stages of the clas
 本项目为“A Deep Learning Method for Diagnosis of Oral Mucosa Potential Malignant Disorders”中所使用的代码备份。两个代码分支，分别代表项目中使用的分类模型的两个不同阶段
 
 
-![image](https://github.com/user-attachments/assets/8847d6b2-018c-48b5-81d3-6a5c4f76c083)
+
 
 
 # YOLO12-Multi-classification-Oral-Mucosal-Diseases

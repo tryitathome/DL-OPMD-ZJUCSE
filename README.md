@@ -1,19 +1,22 @@
 # DL-OPMD-ZJUCSE
-Code backup for project“A Deep Learning Method for Diagnosis of Oral Mucosa Potential Malignant Disorders”
-The two code branches in this project represent two different stages of the classification model used in the project.
-
-本项目为“A Deep Learning Method for Diagnosis of Oral Mucosa Potential Malignant Disorders”中所使用的代码备份。两个代码分支，分别代表项目中使用的分类模型的两个不同阶段
 
 Y.Q. Cao1,2, J.Y. Zhang1, M. Lu1, L.J. Shi3, H.X. Dan4, F.D. Zhu5, P.J. Huang1, G.X. Zhang1, H.J. Zhang1,2, Q.M. Chen5
 
 1State Key Laboratory of Industrial Control Technology, College of Control Science and Engineering, Zhejiang University, Hangzhou, 310027, China
+
 2Institute of Wenzhou, Zhejiang University, Wenzhou, China
+
 3Department of Oral Medicine, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology & Shanghai Research Institute of Stomatology, Shanghai, China
+
 4State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases & Research Unit of Oral Carcinogenesis and Management, Chinese Academy of Medical Sciences, West China Hospital of Stomatology, Sichuan University, Chengdu, Sichuan 610041, China
+
 5Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Hangzhou, 310000, China
 
 
+Code backup for project“A Deep Learning Method for Diagnosis of Oral Mucosa Potential Malignant Disorders”
+The two code branches in this project represent two different stages of the classification model used in the project.
 
+本项目为“A Deep Learning Method for Diagnosis of Oral Mucosa Potential Malignant Disorders”中所使用的代码备份。两个代码分支，分别代表项目中使用的分类模型的两个不同阶段
 
 # YOLO12-Multi-classification-Oral-Mucosal-Diseases
 
